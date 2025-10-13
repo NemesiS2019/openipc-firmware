@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-INGENIC_OPENSDK_VERSION = HEAD
+INGENIC_OPENSDK_VERSION = 1.0.0
 #INGENIC_OPENSDK_SITE = $(call github,openipc,openingenic,$(INGENIC_OPENSDK_VERSION))
 INGENIC_OPENSDK_SITE = https://github.com/NemesiS2019/openipc-openingenic.git
 
