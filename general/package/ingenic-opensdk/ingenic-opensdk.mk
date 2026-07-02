@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-INGENIC_OPENSDK_VERSION = 1.0.0
+INGENIC_OPENSDK_VERSION = 1.0.1
 INGENIC_OPENSDK_SITE = $(call github,NemesiS2019,openipc-openingenic,$(INGENIC_OPENSDK_VERSION))
 
 INGENIC_OPENSDK_LICENSE = GPL-3.0
